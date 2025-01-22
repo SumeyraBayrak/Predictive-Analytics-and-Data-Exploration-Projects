@@ -1,4 +1,4 @@
-![Top Kaggle Courses for Data Science](https://raw.githubusercontent.com/SumeyraBayrak/Predictive-Analytics-and-Data-Mining-Projects/main/Image/Top-Kaggle-Courses-for-Data-Science.png)
+![Top Kaggle Courses for Data Science](https://raw.githubusercontent.com/SumeyraBayrak/Predictive-Analytics-and-Data-Mining-Projects/master/Image/Top-Kaggle-Courses-for-Data-Science.png)
 
 Image/Top-Kaggle-Courses-for-Data-Science.png
 # Machine Learning Regression
