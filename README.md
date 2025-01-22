@@ -8,7 +8,6 @@ Machine learning regression is a technique used to analyze the relationship betw
 - **Purpose**: Predict continuous outcomes and understand relationships between variables.
 - **Applications**: Forecasting and decision-making in industries like finance, healthcare, and retail.
 - **Examples of Tasks**: Predicting house prices, stock trends, sales figures, etc.
-
 ## Types of Regression:
 ### 1. Simple Linear Regression
 - Models the relationship between a single independent variable and the dependent variable.
@@ -22,6 +21,7 @@ Machine learning regression is a technique used to analyze the relationship betw
 - Used for binary outcomes (e.g., success or failure).
 - Predicts the probability of a dependent variable using a sigmoid curve.
 
+![gift](https://raw.githubusercontent.com/SumeyraBayrak/Predictive-Analytics-and-Data-Exploration-Projects/master/advanced_linear_regression_animation.gif)
 
 <details>
 <summary>Click to view regression problems</summary>
