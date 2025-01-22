@@ -1,6 +1,6 @@
-![Top Kaggle Courses for Data Science](https://raw.githubusercontent.com/SumeyraBayrak/Predictive-Analytics-and-Data-Mining-Projects/main/Top-Kaggle-Courses-for-Data-Science.png)
+![Top Kaggle Courses for Data Science](https://raw.githubusercontent.com/SumeyraBayrak/Predictive-Analytics-and-Data-Mining-Projects/main/Image/Top-Kaggle-Courses-for-Data-Science.png)
 
-
+Image/Top-Kaggle-Courses-for-Data-Science.png
 # Machine Learning Regression
 
 Machine learning regression is a technique used to analyze the relationship between independent variables (features) and a dependent variable (outcome). It is primarily applied in predictive modeling, where the goal is to predict continuous outcomes. This involves training models on labeled data to understand how features influence the outcome, which allows the model to predict future or missing data.
