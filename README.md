@@ -33,8 +33,8 @@ $ python Predictive-Analytics-and-Data-Exploration-Projects/linear_gift.ipynb
 </p>
 
 <p align="center" style="max-width: 500px; color: #808080; font-size: 5px;">
-  Şekil: 2016 yılında İsveç, Linköping'de ölçülen sıcaklık verilerine uyan<br>
-  düzenlenmiş bir polinom regresyon modelinin eğitim ilerlemesi.
+  <strong>Figure:</strong> This animation provides a visual explanation of how the linear regression<br>
+  model operates and enhances its accuracy in predicting the data over time.
 </p>
 
 <details>
