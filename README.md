@@ -21,7 +21,21 @@ Machine learning regression is a technique used to analyze the relationship betw
 - Used for binary outcomes (e.g., success or failure).
 - Predicts the probability of a dependent variable using a sigmoid curve.
 
-![gift](https://raw.githubusercontent.com/SumeyraBayrak/Predictive-Analytics-and-Data-Exploration-Projects/master/advanced_linear_regression_animation.gif)
+# Example :
+##  Linear Regression :
+
+```bash
+$ python Predictive-Analytics-and-Data-Exploration-Projects/linear_gift.ipynb
+```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SumeyraBayrak/Predictive-Analytics-and-Data-Exploration-Projects/master/advanced_linear_regression_animation.gif" alt="Project Image">
+</p>
+
+<p align="center" style="max-width: 500px; color: #808080; font-size: 5px;">
+  <strong>Figure:</strong> This animation provides a visual explanation of how the linear regression<br>
+  model operates and enhances its accuracy in predicting the data over time.
+</p>
 
 <details>
 <summary>Click to view regression problems</summary>
