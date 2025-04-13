@@ -54,4 +54,4 @@ $ python Predictive-Analytics-and-Data-Exploration-Projects/linear_gift.ipynb
 
 Thank you for exploring this project! For more insights and datasets, feel free to visit my Kaggle profile.
 
-[My Kaggle Profile](https://www.kaggle.com/sumeyrabayrak)
+[My Kaggle Profile]([https://www.kaggle.com/sumeyrabayrak](https://www.kaggle.com/smeyrabayrak))
